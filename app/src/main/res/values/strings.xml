@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity_Life_Cycle</string>
+    <string name="title_activity_secound_activity">Secound_activity</string>
+    <string name="Button_click">Click for the secound activity</string>
+</resources>
